@@ -10,6 +10,36 @@ A MapleStory v83 private server — pre-Big Bang nostalgia.
 4. **Run** `MapleSky-WINDOW.exe`
 5. **Register** at the login screen — pick any username and password, your account is created automatically
 
+## Server Info
+
+| | |
+|---|---|
+| **Version** | v83 (Pre-Big Bang) |
+| **Rates** | 3x EXP / 2x Meso / 3x Drop / 5x Boss / 3x Quest |
+| **Multi-client** | Unlimited |
+| **Classes** | All v83 explorers |
+| **HP Washing** | Allowed |
+| **Inventory** | Starts at 24, scales +12 per 20 levels (max 96 at lv120) |
+| **Storage** | 48 slots, free (no fees) |
+| **NX** | Vote NX (utility) + Donor Points (permanent cosmetics) |
+
+## Features
+
+- **Godly items** — 10% chance for dropped equips to get bonus stats
+- **Party quest level caps removed** — all major PQs uncapped
+- **Solo expeditions** — Zakum, Horntail, etc. soloable
+- **Full Holy Symbol** — works without party EXP sharers
+- **Free storage** — 48 slots, no store/retrieve fees
+- **Classic Maple Island** — vanilla tutorial experience
+- **4/4/4/4 starting stats** — early-GMS AP allocation
+
+## Troubleshooting
+
+- **Game client disappeared after extracting:** Your antivirus deleted it. See [Windows Defender / Antivirus](#windows-defender--antivirus) below.
+- **Game crashes on launch:** Right-click `MapleSky-WINDOW.exe` → Properties → Compatibility → check "Run in compatibility mode" → select Windows XP SP3
+- **Can't connect:** Server may be offline. Check Discord for status.
+- **Black screen:** Try running as Administrator
+
 ## Windows Defender / Antivirus
 
 **Your antivirus will flag the game client as a virus. It is not a virus.** This is a false positive that affects every MapleStory private server — MapleRoyals, MapleLegends, and even [Nexon's own official client](http://maplestory.nexon.net/news/24299/known-issue-anti-virus-false-detections) have all dealt with this.
@@ -36,36 +66,6 @@ Do this **before extracting** the download. If you already extracted and the .ex
 ### Other antivirus software
 
 If you use a third-party antivirus (Avast, Norton, Kaspersky, etc.), add the game folder to your antivirus exclusion/whitelist. The exact steps vary by product — search "[your antivirus name] add folder exclusion."
-
-## Server Info
-
-| | |
-|---|---|
-| **Version** | v83 (Pre-Big Bang) |
-| **Rates** | 3x EXP / 2x Meso / 3x Drop / 5x Boss / 3x Quest |
-| **Multi-client** | Unlimited |
-| **Classes** | All v83 explorers |
-| **HP Washing** | Allowed |
-| **Inventory** | Starts at 24, scales +12 per 20 levels (max 96 at lv120) |
-| **Storage** | 48 slots, free (no fees) |
-| **NX** | Vote NX (utility) + Donor Points (permanent cosmetics) |
-
-## Features
-
-- **Godly items** — 10% chance for dropped equips to get bonus stats
-- **Party quest level caps removed** — all major PQs uncapped
-- **Solo expeditions** — Zakum, Horntail, etc. soloable
-- **Full Holy Symbol** — works without party EXP sharers
-- **Free storage** — 48 slots, no store/retrieve fees
-- **Classic Maple Island** — vanilla tutorial experience
-- **4/4/4/4 starting stats** — early-GMS AP allocation
-
-## Troubleshooting
-
-- **Game client disappeared after extracting:** Your antivirus deleted it. See [Windows Defender / Antivirus](#windows-defender--antivirus) above.
-- **Game crashes on launch:** Right-click `MapleSky-WINDOW.exe` → Properties → Compatibility → check "Run in compatibility mode" → select Windows XP SP3
-- **Can't connect:** Server may be offline. Check Discord for status.
-- **Black screen:** Try running as Administrator
 
 ## Requirements
 
